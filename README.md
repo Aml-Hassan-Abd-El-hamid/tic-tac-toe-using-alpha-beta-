@@ -1,4 +1,4 @@
-# tic-tac-toe-using-alpha-beta
+# Tic Tac Toe using alpha beta
 
 that is my solution for problem tic tac toe from project 0 from the ai50 cource<br>
 that's a link to the problem : https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/ <br>
